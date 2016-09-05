@@ -1,1 +1,1 @@
-docker build -t  kafka-streams-spike .
+docker build -t kafka-streams-spike:1.0.0 .
